@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Giovanna Rizkallah, and I'm a computational scientist, specializing in product development, quantum computing, and optical engineering, based in the United States.</p>
+<p align="left">Hi there! I'm Giovanna Rizkallah, an AI/ML Specialist & Mathematician with a strong foundation in computational science, machine learning, and data-driven problem-solving. My expertise lies in AI and mathematical modeling, with hands-on experience in Python, MATLAB, and Julia. I am currently based in the United States. </p>
 
 ###
 
