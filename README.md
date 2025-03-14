@@ -11,7 +11,7 @@
 ###
 
 
-📚 I'm actively working on AI-driven innovation, focusing on computer vision, image processing, and machine learning models for real-world applications. I also enjoy exploring new AI opportunities to solve complex problems, with expertise in supervised and unsupervised learning, neural networks, computer vision, generative AI, and predictive analytics. <br><br>🎯 Goals: My goal is to leverage my strong scientific background in physics and engineering for the development of advanced technologies, and implementing practical applications of computational physics and quantum optics in industry.</p>
+📚 I'm actively working on AI-driven innovation, focusing on computer vision, image processing, and machine learning models for real-world applications. I also enjoy exploring new AI opportunities to solve complex problems, with expertise in supervised and unsupervised learning, neural networks, computer vision, generative AI, and predictive analytics. <br><br>🎯 Goals: My goal is to leverage my strong foundation in mathematics, computational science, and AI/ML to develop advanced technologies, applying machine learning, computer vision, and data-driven solutions to real-world industry challenges.</p>
 
 ###
 
