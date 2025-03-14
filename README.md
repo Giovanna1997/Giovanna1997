@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! I'm Giovanna Rizkallah, an AI/ML Specialist & Mathematician with a strong foundation in computational science, machine learning, and data-driven problem-solving. I am currently based in the United States. </p>
+<p align="left">Hi there! I'm Giovanna Rizkallah, an AI/ML Specialist & Mathematician with a strong foundation in mathematics, computational electrical science, machine learning, and data-driven problem-solving. I am currently based in the United States. </p>
 
 ###
 
